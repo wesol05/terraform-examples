@@ -3,5 +3,5 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "bucket" {
-  bucket = "example-wesol05"
+  bucket = "example-vesol"
 }
