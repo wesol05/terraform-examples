@@ -1,1 +1,0 @@
-bucket-name = "wesol05-test"
